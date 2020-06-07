@@ -949,12 +949,12 @@
     </Group>
     <Group key="4de8b778-eb40-4f1c-bc3f-98f57730fff7">
       <Group key="0">
-        <Data key="Port Format" value="12,6" />
+        <Data key="Port Format" value="12,7" />
       </Group>
     </Group>
     <Group key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba">
       <Group key="0">
-        <Data key="Port Format" value="1,2" />
+        <Data key="Port Format" value="2,2" />
       </Group>
     </Group>
     <Group key="48e09283-6e22-4c96-a30a-1443caf0447f">
@@ -964,7 +964,7 @@
     </Group>
     <Group key="83fc8610-854c-47f6-b3ec-8847b2c290d3">
       <Group key="0">
-        <Data key="Port Format" value="12,7" />
+        <Data key="Port Format" value="12,6" />
       </Group>
     </Group>
     <Group key="6646cf11-29b9-42e8-956f-9d09d589face">
